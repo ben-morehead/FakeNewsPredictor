@@ -1,0 +1,15 @@
+{
+    "input_file_path": "D:\\Machine Learning\\ArticleValidity\\dataset\\sample.csv",
+    "training_file_path": "D:\\Machine Learning\\ArticleValidity\\dataset\\train.csv",
+    "test_data_file_path": "D:\\Machine Learning\\ArticleValidity\\dataset\\test.csv",
+    "test_data_label_path": "D:\\Machine Learning\\ArticleValidity\\dataset\\labels.csv",
+    "tv_ratio": 3,
+    "model_name": "output\\final_model_bs32_lr0.0001_hn128_epoch199",
+    "save_rate": 50,
+    "hyperparams": {
+        "batch_size":  [32],
+        "learning_rate":  [0.0001],
+        "num_epochs": [200],
+        "hidden_nodes": [128]
+    }
+}
